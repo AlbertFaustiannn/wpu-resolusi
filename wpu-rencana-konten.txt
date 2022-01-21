@@ -1,6 +1,6 @@
 rencan konten wpu
 
-Java script
+ajax
 php frameworks
 interview
 vlogs
